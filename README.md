@@ -16,14 +16,13 @@ Inputs: 3 Mechanics switches + 1 Encoder EC11 with bttn.
 Outpots: 3 LEDs 
 
 Voltage: 3.3V.
+(BOM)
 
-### BOM on table
-[Path rotary-bom.csv](https://github.com/user-attachments/files/27323156/Path.rotary-bom.csv)
-
-Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"Resistors (220Ω - 330Ω)","Resistors for LEDs (I already have it)",1,0.00,"https://es.aliexpress.com/item/1005010049798113.html","I already have it"
-"PCB Pathfinder","PCB board designed",1,2.00,"https://jlcpcb.com/","JLCPCB"
-"LEDs","Indicator LEDs (I already have it)",3,0.00,"https://es.aliexpress.com/item/1005001414503004.html","I already have it"
-"Mechanical Switches","Mechanical switches for the keys.(I already have it)",3,0.00,"https://es.aliexpress.com/item/1005006396423418.html","I already have it"
-"Rotary Encoder (Knob)","Rotary encoder with integrated push button.",1,1.00,"https://es.aliexpress.com/item/1005009889978797.html","Aliexpress"
-"Seeed Studio XIAO RP2040","Microcontroller",1,4.52,"https://es.aliexpress.com/item/1005006987582110.html","Aliexpress"
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| **Seeed Studio XIAO RP2040** | Microcontroller | 1 | $4.52 | [Link](https://es.aliexpress.com/item/1005006987582110.html) | Aliexpress |
+| **Rotary Encoder (Knob)** | Rotary encoder with integrated push button. | 1 | $1.00 | [Link](https://es.aliexpress.com/item/1005009889978797.html) | Aliexpress |
+| **PCB Pathfinder** | PCB board designed | 1 | $2.00 | [Link](https://jlcpcb.com/) | JLCPCB |
+| **Mechanical Switches** | Mechanical switches for the keys. | 3 | $0.00 | [Link](https://es.aliexpress.com/item/1005006396423418.html) | **In Stock** |
+| **LEDs** | Indicator LEDs | 3 | $0.00 | [Link](https://es.aliexpress.com/item/1005001414503004.html) | **In Stock** |
+| **Resistors (220Ω - 330Ω)** | Resistors for LEDs | 3 | $0.00 | [Link](https://es.aliexpress.com/item/1005010049798113.html) | **In Stock** |
