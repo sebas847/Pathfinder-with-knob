@@ -9,7 +9,7 @@ And the scheme:
 ## Specs
 Brain: Seeed Studio XIAO RP2040.
 
-PCB Dimentions: 78.00 mm x 62.53 mm.
+PCB Dimentions: 62.53 mm * 77.96 mm
 
 Inputs: 3 Mechanics switches + 1 Encoder EC11 with bttn.
 
