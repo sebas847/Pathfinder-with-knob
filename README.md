@@ -2,6 +2,7 @@
 This device features a XIAO RP2040, 3 switches, and a knob. Each has its specific function configured via code.
 This initial project was interesting for me, considering I don't have much knowledge about the subject. I was also drawn to the idea of ​​creating something that's actually useful in my daily life. I can configure the device so that each key acts as a shortcut or whatever, and the same goes for the knob I added. Plus, I learned how to make PCBs! I found creating my own PCB very interesting and satisfying; I had no idea they were made that way.
 Here are some photos of the schematic and finished PCB.
+
 <img width="642" height="726" alt="image" src="https://github.com/user-attachments/assets/91bc59a4-0399-4ffa-b177-e5bb6e9459da" />
 <img width="685" height="745" alt="image" src="https://github.com/user-attachments/assets/b3f38b05-446a-4b30-a2bb-402140241a14" />
 <img width="720" height="756" alt="image" src="https://github.com/user-attachments/assets/460bc349-5c18-42bc-8374-1aad98bba790" />
